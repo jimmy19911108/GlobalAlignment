@@ -1,12 +1,12 @@
 # GlobalAlignment
 
-example:
-Input sequence s:
-aaac
-Input t:
-agc
+example:<\br>
+Input sequence s:<\br>
+aaac<\br>
+Input t:<\br>
+agc<\br>
 
 
 
-s:a a a c
-t:a g - c
+s:a a a c<\br>
+t:a g - c<\br>
